@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**BlueFlamesDino/BlueFlamesDino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello World!
+I wish to become a video game programmer. I have plans of getting a collage degree for this, but I also plan on self teaching myself more. I've already taught myself a bunch. I enjoy making things work, I work more on the logic side.
+# Favorite language: Odin
+I love the modern feel of Odin. I'm still learning Odin in the sense of how exactly to use it. Working with a low-level language like Odin is a newer experince, but I'm done with Electron. My experince with Odin is the same as with C and C++.
+## Known languages
+- Javascript (HTML and CSS too!)
+- Odin
+- Python
+- Lua
+- Luau (Helped on some roblox projects)
+- C
+- C++
+# FOSS
+I plan on by defult making projects with the philosophy of FOSS. Things should just do their job. My projects aren't guarenteed to be FOSS though.
