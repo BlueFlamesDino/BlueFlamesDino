@@ -9,6 +9,4 @@ I am a programmer. I prefer to work on games. I am soon attending UW-Stout to ge
 - C Languages
 - Rust
 
-# About me
-I am a Atheist pansexual programmer. I love Pokemon!
 ### [My Links Repo](https://github.com/BlueFlamesDino/blueflamesdino-links)
